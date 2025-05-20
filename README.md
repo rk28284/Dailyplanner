@@ -46,20 +46,11 @@ project-root/
     <li>Debounce and throttle for performance</li>
   </ul>
 
-  <h2>📦 Deployment Options</h2>
+  <h2>📦 Deployment</h2>
   <ul>
-    <li>GitHub Pages</li>
-    <li>Netlify</li>
     <li>Vercel</li>
   </ul>
 
-  <h2>✨ Future Enhancements</h2>
-  <ul>
-    <li>Task editing</li>
-    <li>Due dates and reminders</li>
-    <li>User login with authentication</li>
-    <li>Dark mode</li>
-  </ul>
 
   <p><strong>Author:</strong> A Full Stack Developer</p>
 
