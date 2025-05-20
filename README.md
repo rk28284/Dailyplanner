@@ -24,7 +24,7 @@ project-root/
 ├── index.html
 ├── styles.css
 └── js/
-    ├── main.js
+    ├── index.js
     ├── taskManager.js
     ├── dom.js
     └── utils.js
